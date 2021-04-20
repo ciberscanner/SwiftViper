@@ -1,0 +1,6 @@
+framework module Pods_AcronymsViper_AcronymsViperUITests {
+  umbrella header "Pods-AcronymsViper-AcronymsViperUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
